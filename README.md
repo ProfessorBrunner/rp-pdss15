@@ -1,6 +1,6 @@
-# Introductory data science review course
-## Research Park, University of Illinois, 
-##  August 2015
+## Introductory Data Science Review Course
+### Research Park, University of Illinois, 
+###  August 2015
 
 ### Draft Schedule
 | Time Slot | Topic |
