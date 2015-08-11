@@ -5,6 +5,9 @@
 -----
 
 #### Draft Schedule
+
+The course will be held in the EnterpriseWorks conference room.
+
 | Time Slot | Topic |
 |---|---|
 | 8:30–9:00 |Breakfast  |
