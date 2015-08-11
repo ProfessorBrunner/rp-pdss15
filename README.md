@@ -1,6 +1,8 @@
 ## Introductory Data Science Review Course
-### Research Park, University of Illinois, 
-###  August 2015
+### Research Park, University of Illinois, August 2015
+### Instructor: Professor Robert J. Brunner
+### Assistant:  Edward Kim
+-----
 
 ### Draft Schedule
 | Time Slot | Topic |
