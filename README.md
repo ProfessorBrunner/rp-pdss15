@@ -22,3 +22,13 @@ The course will be held in the EnterpriseWorks conference room.
 |3:30–4:00 |Breakout  |
 |4:00-4:30 |Introduction to Machine Learning  |
 |4:30-5:00 |Concluding Thoughts|
+
+-----
+
+Course [Index](notebooks/index.ipynb) Notebook
+
+-----
+
+The _Practical Data Science_ course [License](LICENSE.md)
+
+-----
