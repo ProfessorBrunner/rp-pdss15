@@ -7,6 +7,8 @@ RUN apt-get update && \
     apt-get install -y -q \
     vim \
     wget \
+    traceroute \
+    dnsutils \
     # fonts needed in seaborn 
     ttf-liberation \ 
     ttf-bitstream-vera \
