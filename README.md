@@ -29,6 +29,12 @@ Course [Index](notebooks/index.ipynb) Notebook
 
 -----
 
+We thank our sponsors: the Research Park at the University of Illinois
+and the National Center for Supercomputing Applications, Private Sector
+Partner Program.
+
+-----
+
 The _Practical Data Science_ course [License](LICENSE.md)
 
 -----
